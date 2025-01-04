@@ -1,4 +1,4 @@
-# Divider_app
+# profile app
 
 Nama: Dimas Mukhtar Yuliawan
 NIM: 2021150068
